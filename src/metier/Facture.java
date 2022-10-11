@@ -4,6 +4,7 @@ import java.time.LocalDate;
 
 public class Facture
 {
+	
 	/**
 	 * Retourne le client à qui est adressée la facture..
 	 * @return le client.
